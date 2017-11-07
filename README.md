@@ -1,2 +1,3 @@
-# Git-and-Github-practice
-GitとGithub利用の練習
+# What's this?
+GitとGithub利用の練習です。
+あくまでも練習なんでいずれ消すんで見ないでいいです
